@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToFilterListViewInLinkDialog.Module", "HowToFilterListViewInLinkDialog.Module\HowToFilterListViewInLinkDialog.Module.csproj", "{EC8D90AF-8F05-4700-AF41-C43E1FDC0369}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToFilterListViewInLinkDialog.Module.Web", "HowToFilterListViewInLinkDialog.Module.Web\HowToFilterListViewInLinkDialog.Module.Web.csproj", "{0C7B73D7-31A0-4AAF-B839-A207F516ED2B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToFilterListViewInLinkDialog.Web", "HowToFilterListViewInLinkDialog.Web\HowToFilterListViewInLinkDialog.Web.csproj", "{480D4A0F-F80C-49BA-92B8-346037D353B2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToFilterListViewInLinkDialog.Module.Win", "HowToFilterListViewInLinkDialog.Module.Win\HowToFilterListViewInLinkDialog.Module.Win.csproj", "{26F21EA3-5C31-4CED-AC6D-CEEBAD3323E9}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToFilterListViewInLinkDialog.Win", "HowToFilterListViewInLinkDialog.Win\HowToFilterListViewInLinkDialog.Win.csproj", "{27103D9B-EF0D-471E-9ECD-E13370B165FD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8D90AF-8F05-4700-AF41-C43E1FDC0369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8D90AF-8F05-4700-AF41-C43E1FDC0369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8D90AF-8F05-4700-AF41-C43E1FDC0369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8D90AF-8F05-4700-AF41-C43E1FDC0369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7B73D7-31A0-4AAF-B839-A207F516ED2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7B73D7-31A0-4AAF-B839-A207F516ED2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7B73D7-31A0-4AAF-B839-A207F516ED2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7B73D7-31A0-4AAF-B839-A207F516ED2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480D4A0F-F80C-49BA-92B8-346037D353B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480D4A0F-F80C-49BA-92B8-346037D353B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480D4A0F-F80C-49BA-92B8-346037D353B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480D4A0F-F80C-49BA-92B8-346037D353B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F21EA3-5C31-4CED-AC6D-CEEBAD3323E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F21EA3-5C31-4CED-AC6D-CEEBAD3323E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F21EA3-5C31-4CED-AC6D-CEEBAD3323E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F21EA3-5C31-4CED-AC6D-CEEBAD3323E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27103D9B-EF0D-471E-9ECD-E13370B165FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27103D9B-EF0D-471E-9ECD-E13370B165FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27103D9B-EF0D-471E-9ECD-E13370B165FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27103D9B-EF0D-471E-9ECD-E13370B165FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
