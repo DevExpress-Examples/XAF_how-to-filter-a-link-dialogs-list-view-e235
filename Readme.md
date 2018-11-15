@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BusinessClasses.cs](./CS/HowToFilterListViewInLinkDialog.Module/BusinessClasses.cs) (VB: [BusinessClasses.vb](./VB/HowToFilterListViewInLinkDialog.Module/BusinessClasses.vb))
+<!-- default file list end -->
 # How to Filter a Link Dialog's List View
 
 
